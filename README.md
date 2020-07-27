@@ -1,6 +1,8 @@
 数值分析
 =======
 
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/OlNYpYBt)
+
 ### 非线性方程求解
 
 1. 二分法
